@@ -1,0 +1,3 @@
+main = myLast [1,2,3,4]
+
+myLast = [a] -> a
